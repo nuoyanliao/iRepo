@@ -10,4 +10,7 @@
 
 @interface ViewController : UIViewController
 
+
+- (void)desc:(NSString *) name;
+
 @end
